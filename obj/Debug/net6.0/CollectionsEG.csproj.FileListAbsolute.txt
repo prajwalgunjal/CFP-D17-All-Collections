@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\bin\Debug\net6.0\CollectionsEG.exe
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\bin\Debug\net6.0\CollectionsEG.deps.json
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\bin\Debug\net6.0\CollectionsEG.runtimeconfig.json
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\bin\Debug\net6.0\CollectionsEG.dll
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\bin\Debug\net6.0\CollectionsEG.pdb
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\CollectionsEG.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\CollectionsEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\CollectionsEG.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\CollectionsEG.AssemblyInfo.cs
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\CollectionsEG.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\CollectionsEG.dll
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\refint\CollectionsEG.dll
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\CollectionsEG.pdb
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\CollectionsEG.genruntimeconfig.cache
+C:\Users\prajw\source\repos\CollectionsEG\CollectionsEG\obj\Debug\net6.0\ref\CollectionsEG.dll
