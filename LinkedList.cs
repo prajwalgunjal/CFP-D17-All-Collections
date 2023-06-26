@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ namespace CollectionsEG
 {
     internal class LinkedList
     {
-        LinkedList<int> linkedList = new LinkedList<int>();   
+        LinkedList<int> linkedList = new LinkedList<int>();
         public void LinkedlistM()
         {
             // Add elements to the LinkedList
@@ -49,19 +49,18 @@ namespace CollectionsEG
 
             // Iterate over the LinkedList
             Display();
-           
+
         }
-        
+
         public void Display()
         {
             LinkedListNode<int> currentNode = linkedList.First;
             while (currentNode != null)
             {
-                Console.Write(currentNode.Value +" -> ");
+                Console.Write(currentNode.Value + " -> ");
                 currentNode = currentNode.Next;
             }
             Console.WriteLine();
         }
     }
 }
-*/

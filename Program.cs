@@ -7,8 +7,11 @@
             ListMethods listMethods = new ListMethods();
             listMethods.ArrayList();
 
+            LinkedList linkedList = new LinkedList();
+            linkedList.LinkedlistM();
+
             //HashTableMethods hashTableMethods = new HashTableMethods();
             //hashTableMethods.hashtableMethods();
-        }
+        }   
     }
 }
