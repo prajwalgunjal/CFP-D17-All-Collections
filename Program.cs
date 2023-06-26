@@ -10,6 +10,8 @@
             LinkedList linkedList = new LinkedList();
             linkedList.LinkedlistM();
 
+            StackMethods stackMethods = new StackMethods();
+            stackMethods.stackMethod();
             //HashTableMethods hashTableMethods = new HashTableMethods();
             //hashTableMethods.hashtableMethods();
         }   
