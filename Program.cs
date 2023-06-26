@@ -16,8 +16,11 @@
             //HashTableMethods hashTableMethods = new HashTableMethods();
             //hashTableMethods.hashtableMethods();
 
-            Queue queue = new Queue();
-            queue.queueMethod();
+            //Queue queue = new Queue();
+            //queue.queueMethod();
+
+            Dictionary dictionary = new Dictionary();
+            dictionary.dict();
         }   
     }
 }
