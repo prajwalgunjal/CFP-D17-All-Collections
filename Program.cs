@@ -12,8 +12,9 @@
 
             StackMethods stackMethods = new StackMethods();
             stackMethods.stackMethod();
-            //HashTableMethods hashTableMethods = new HashTableMethods();
-            //hashTableMethods.hashtableMethods();
+
+            HashTableMethods hashTableMethods = new HashTableMethods();
+            hashTableMethods.hashtableMethods();
         }   
     }
 }

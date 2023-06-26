@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,7 +26,7 @@ namespace CollectionsEG
             Display();
             Console.WriteLine();
             Console.WriteLine("Checking wether xerox is present or not");
-            Console.WriteLine( "Xerox - > "+hashset.Contains("Xerox"));
+            Console.WriteLine("Xerox - > " + hashset.Contains("Xerox"));
             Console.WriteLine();
             Console.WriteLine("Removing Apple");
             hashset.Remove("Apple");
@@ -41,13 +41,13 @@ namespace CollectionsEG
             hashset.Clear();
         }
 
-        public void Display() {
+        public void Display()
+        {
             foreach (var item in hashset)
             {
-                Console.Write(item +" -> ");
+                Console.Write(item + " -> ");
             }
             Console.WriteLine();
         }
     }
 }
-*/
